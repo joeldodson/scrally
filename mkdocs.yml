@@ -1,0 +1,6 @@
+site_name: Scrapeally Documentation 
+site_url: https://joeldodson.github.io/scrapeally
+nav:
+  - Home: index.md
+  - Beautiful Soup: bsoup.md
+  
